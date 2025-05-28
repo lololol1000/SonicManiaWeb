@@ -3,7 +3,7 @@ var _cacheFiles = [
 	'RSDKv5.html',
 	'RSDKv5.js',
 	'RSDKv5.wasm',
-  'https://files.catbox.moe/xsfgty.rsdk'
+  'https://archive.org/download/data.rsdk/Data%20Mania%20Plus.rsdk'
 ];
 	
 self.addEventListener('install', (e) => {
