@@ -3,7 +3,7 @@ var _cacheFiles = [
 	'RSDKv5.html',
 	'RSDKv5.js',
 	'RSDKv5.wasm',
-  'https://drive.usercontent.google.com/download?id=1hem3DRn85eE1xIQVzvLr0_lBrFWpmZR2&export=download&authuser=1'
+  'https://drive.google.com/uc?export=download&id=1hem3DRn85eE1xIQVzvLr0_lBrFWpmZR2'
 ];
 	
 self.addEventListener('install', (e) => {
