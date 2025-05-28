@@ -3,7 +3,7 @@ var _cacheFiles = [
 	'RSDKv5.html',
 	'RSDKv5.js',
 	'RSDKv5.wasm',
-  'Data.rsdk'
+  'https://archive.org/download/data-rsdk-sonic-mania/Data.rsdk'
 ];
 	
 self.addEventListener('install', (e) => {
